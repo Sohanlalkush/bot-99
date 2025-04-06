@@ -39,7 +39,8 @@
     "qr-image": "^3.2.0",
     "qrcode": "^1.5.3",
     "qrcode-terminal": "^0.12.0",
-    "wa-sticker-formatter": "^4.4.4"
+    "wa-sticker-formatter": "^4.4.4",
+    "mongoose": "^7.4.3"
   },
   "author": "Andres Aya",
   "license": "MIT",
@@ -53,5 +54,9 @@
     "@types/node": "^20.4.5",
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
   }
 }
