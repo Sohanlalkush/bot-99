@@ -93,6 +93,7 @@ async function startBot() {
             '*Pharma Jobs:*\n' +
             'Looking for your next opportunity in the pharma industry? Check out the latest job openings:\n' +
             '- *Browse Jobs*: https://jobs.pharmalite.in\n\n' +
+            '- *Join our WhatsApp channel*: https://whatsapp.com/channel/0029Vah34yY5kg6xfOg3Zd2Q\n\n' +
             'Type *0* to go back to the main menu.'
           );
           break;
